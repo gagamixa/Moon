@@ -3,3 +3,4 @@ Eintrag auf Rasp
 03.03.2023 Eingabe auf Raspberry zurück zu VS Code
 04.03.2023 Eingabe in VS Code zurück zu Raspberry
 04.03.2023 Eingaben Raspberry zurück zu VS Code
+04.03.2023 Einhabe vsc zurück nach Rasp
