@@ -1,2 +1,3 @@
 Eintrag auf Rasp
 03.03.2023 Eingabe
+03.03.2023 Eingabe auf Raspberry zurück zu VS Code
